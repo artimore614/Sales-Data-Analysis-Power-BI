@@ -58,8 +58,8 @@ These values are transcribed from the current dashboard preview and may change i
 
 - `README.md` — project description, dashboard KPIs, and analysis details.
 - **Dashboard preview PDF** — the PDF preview is available in the project workspace, but has not yet been uploaded to this GitHub repository.
-- **Power BI report (`.pbix`)** — not yet included in this repository.
-- **Dataset (`.csv` or `.xlsx`)** — add the source dataset if it is permitted to be shared.
+- **Power BI report (`.pbix`)** — Included in this repository.
+- **Dataset (`.csv` or `.xlsx`)** — added the source dataset.
 
 ## ▶️ How to View the Dashboard
 
